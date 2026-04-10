@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# مشروع تاج باص - Tej Bus 🚌
 
-# Run and deploy your AI Studio app
+مشروع تخرج متكامل لنظام حجز تذاكر الأتوبيسات وتنسيق الرحلات.
 
-This contains everything you need to run your app locally.
+## 🚀 عن المشروع
+تم تطوير هذا المشروع لتقديم حلول ذكية وسهلة لحجز مقاعد الأتوبيسات إلكترونياً، مع واجهة إدارة كاملة للتحكم في الرحلات والركاب.
 
-View your app in AI Studio: https://ai.studio/apps/8f6c27a5-bad0-448f-8cd7-d3caa55b3d76
+## ✨ المميزات الرئيسية
+* **واجهة مستخدم احترافية:** ألوان متناسقة وتصميم رويال هادئ.
+* **نظام حجز ذكي:** شاشة تحاكي شكل الباص الحقيقي لاختيار المقاعد.
+* **تذاكر إلكترونية:** توليد QR Code لكل تذكرة لسهولة فحصها.
+* **لوحة تحكم للمدير:** لمتابعة الحجوزات وإدارة الأسطول.
 
-## Run Locally
+## 🛠 التكنولوجيات المستخدمة
+* **React.js**
+* **Tailwind CSS**
+* **Vite**
+* **Lucide React (Icons)**
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 💻 طريقة التشغيل
+1. تحميل المكتبات: `npm install`
+2. تشغيل المشروع: `npm run dev`
